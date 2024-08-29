@@ -1,0 +1,5 @@
+pandas
+pyspark
+matplotlib
+seaborn
+jupyter
