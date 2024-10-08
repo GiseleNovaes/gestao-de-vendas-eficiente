@@ -29,9 +29,14 @@ Desenvolvido usando a linguagem Python, Spark e Pandas para processar e visualiz
     ```bash
         pip install -r requirements.txt
 
+
   4. Execute o notebook no Jupyter Notebook ou localmente:
-    • No Jupyter Notebook: faça upload do notebook notebooks/Gestao_vendas.ipynb.
+    • No Jupyter Notebook: faça upload do notebook notebook/Gestao_vendas.ipynb.
     • Localmente: abra o notebook com Jupyter ou outro ambiente compatível.
+
+  4. Execute o notebook ou localmente: 
+      • No Jupyter Notebook: faça upload do notebook, notebook/Gestao-Vendas.ipynb.
+      • Localmente: abra o notebook com Jupyter ou outro ambiente compatível.
 
 
 ## Documentação
