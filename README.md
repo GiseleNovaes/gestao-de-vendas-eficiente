@@ -29,8 +29,8 @@ Desenvolvido usando a linguagem Python, Spark e Pandas para processar e visualiz
     ```bash
         pip install -r requirements.txt
 
-  4. Execute o notebook no Google Colab ou localmente:
-    • No Google Colab: faça upload do notebook notebooks/projeto_piloto.ipynb.
+  4. Execute o notebook no Jupyter Notebook ou localmente:
+    • No Jupyter Notebook: faça upload do notebook notebooks/Gestao_vendas.ipynb.
     • Localmente: abra o notebook com Jupyter ou outro ambiente compatível.
 
 
